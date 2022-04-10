@@ -1,5 +1,2 @@
-print("git learning")
-a = 5
-print(a)
-one_more_test = 7
-print(one_more_test)
+print('testing how it works')
+print(1 + 2 + 3)
