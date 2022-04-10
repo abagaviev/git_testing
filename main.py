@@ -1,2 +1,2 @@
-print('testing how it works from github to local')
+print('testing how it works')
 print(1 + 2 + 3)
